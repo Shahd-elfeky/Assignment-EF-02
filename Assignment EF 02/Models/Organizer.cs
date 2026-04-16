@@ -18,3 +18,4 @@ public class Organizer
 
     public OrganizerProfile Profile { get; set; } = null!;
 }
+   
